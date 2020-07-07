@@ -1,1 +1,7 @@
-game.Players.LocalPlayer.PlayerGui["Da Hood"].Main.Status.Text = "Version 1 Is Working"
+version = 1
+patched = "No"
+
+
+
+
+game.Players.LocalPlayer.PlayerGui["Da Hood"].Main.Status.Text = "Version: " ..version.. "Patched: " ..patched.."."
