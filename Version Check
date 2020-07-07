@@ -1,1 +1,1 @@
-<Version 1, Working>
+print("<Version 1, Working>")
