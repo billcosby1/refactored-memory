@@ -4,4 +4,4 @@ patched = "No"
 
 
 
-game.Players.LocalPlayer.PlayerGui["Da Hood"].Main.Status.Text = "Version: #" ..version.. "  Patched: " ..patched.."."
+game.Players.LocalPlayer.PlayerGui.Dah.Main.Status.Text = "Version: #" ..version.. "  Patched: " ..patched.."."
